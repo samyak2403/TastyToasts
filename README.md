@@ -33,7 +33,7 @@ TastyToast is a customizable and visually appealing Android library for creating
   ```
   allprojects {
 		repositories {
-			...
+			...groovy
 			maven { url 'https://jitpack.io' }
 			...
 		}
