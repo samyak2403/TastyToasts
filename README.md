@@ -35,6 +35,7 @@ TastyToast is a customizable and visually appealing Android library for creating
 		repositories {
 			...
 			maven { url 'https://jitpack.io' }
+			...
 		}
 	}
   ```
