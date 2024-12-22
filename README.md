@@ -11,6 +11,16 @@ TastyToast is a customizable and visually appealing Android library for creating
 - **Default Toast**
 - **Confusing Toast**
 
+- ## Screenshots
+
+
+:-------------------------:|:-------------------------:
+<img src="image/1.png" width="250px"/>  |  <img src="image/2.png" width="250px"/> 
+<img src="image/3.png" width="250px"/>  |  <img src="image/4.png" width="250px"/>
+<img src="image/5.png" width="250px"/>  |  <img src="image/6.png" width="250px"/>
+
+
+
 ## Getting Started
 
 ### Installation
