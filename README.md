@@ -27,20 +27,16 @@ To use TastyToast, call the `TastyToast.makeText` method in your activity or fra
 
 ```kotlin
 // Success Toast
-TastyToast.makeText(context, "Download Successful!", TastyToast.LENGTH_LONG, TastyToast.SUCCESS
-)
+TastyToast.makeText(context, "Download Successful!", TastyToast.LENGTH_LONG, TastyToast.SUCCESS)
 
 // Warning Toast
-TastyToast.makeText(context, "Are you sure?", TastyToast.LENGTH_LONG, TastyToast.WARNING
-)
+TastyToast.makeText(context, "Are you sure?", TastyToast.LENGTH_LONG, TastyToast.WARNING)
 
 // Error Toast
-TastyToast.makeText(context, "Downloading failed! Try again later", TastyToast.LENGTH_LONG, TastyToast.ERROR
-)
+TastyToast.makeText(context, "Downloading failed! Try again later", TastyToast.LENGTH_LONG, TastyToast.ERROR)
 
 // Info Toast
-TastyToast.makeText(context, "Searching for username: 'Rahul'", TastyToast.LENGTH_LONG, TastyToast.INFO
-)
+TastyToast.makeText(context, "Searching for username: 'Rahul'", TastyToast.LENGTH_LONG, TastyToast.INFO)
 
 // Default Toast
 TastyToast.makeText(context, "This is Default Toast", TastyToast.LENGTH_LONG, TastyToast.DEFAULT
