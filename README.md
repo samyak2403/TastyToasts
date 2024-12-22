@@ -1,6 +1,7 @@
 # TastyToast Library
 
 TastyToast is a customizable and visually appealing Android library for creating different types of Toast messages with minimal effort.
+![pv](https://pageview.vercel.app/?github_user=TastyToasts)
 
 ## Features
 
