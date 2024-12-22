@@ -43,7 +43,7 @@ TastyToast is a customizable and visually appealing Android library for creating
 Add the following dependency in your `build.gradle` file:
 
 ```groovy
-implementation 'com.github.samyak2403:TastyToasts:1.0.2'
+implementation ("com.github.samyak2403:TastyToasts:1.0.2")
 ```
 
 ### Usage
