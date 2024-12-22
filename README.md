@@ -30,12 +30,12 @@ TastyToast is a customizable and visually appealing Android library for creating
 
 
  Add the JitPack repository to your build file 
-  ```
+  ```groovy
   allprojects {
 		repositories {
-			...groovy
+			
 			maven { url 'https://jitpack.io' }
-			...
+			
 		}
 	}
   ```
