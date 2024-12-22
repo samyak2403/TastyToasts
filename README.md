@@ -26,6 +26,17 @@ TastyToast is a customizable and visually appealing Android library for creating
 
 ### Installation
 
+
+ Add the JitPack repository to your build file 
+  ```
+  allprojects {
+		repositories {
+			...
+			maven { url 'https://jitpack.io' }
+		}
+	}
+  ```
+
 Add the following dependency in your `build.gradle` file:
 
 ```groovy
