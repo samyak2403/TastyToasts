@@ -25,7 +25,7 @@
             android:layout_height="match_parent"
             android:gravity="center">
 
-            <com.sdsmdg.tastytoast.WarningToastView
+            <com.samyak2403.tastytoast.WarningToastView
                 android:id="@+id/warningView"
                 android:layout_width="50dp"
                 android:layout_height="50dp"
