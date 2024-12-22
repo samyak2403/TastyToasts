@@ -14,10 +14,11 @@ TastyToast is a customizable and visually appealing Android library for creating
 - ## Screenshots
 
 
-:-------------------------:|:-------------------------:
-<img src="image/1.png" width="250px"/>  |  <img src="image/2.png" width="250px"/> 
-<img src="image/3.png" width="250px"/>  |  <img src="image/4.png" width="250px"/>
-<img src="image/5.png" width="250px"/>  |  <img src="image/6.png" width="250px"/>
+|                                |                                |
+|:-------------------------:|:-------------------------:|
+|<img src="image/1.png" width="250px"/>  |  <img src="image/2.png" width="250px"/> |
+|<img src="image/3.png" width="250px"/>  |  <img src="image/4.png" width="250px"/> |
+|<img src="image/5.png" width="250px"/>  |  <img src="image/6.png" width="250px"/> |
 
 
 
@@ -65,7 +66,7 @@ TastyToast.makeText(context, "I don't know!", TastyToast.LENGTH_LONG, TastyToast
 - **DEFAULT**: Displays a default message with no specific styling.
 - **CONFUSING**: Displays a confusing message with a purple icon.
 
-### Screenshots
+
 
 Include screenshots showcasing each toast type to help users visualize them.
 
